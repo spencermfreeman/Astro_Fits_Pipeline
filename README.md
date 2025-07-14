@@ -6,8 +6,8 @@
 - Target Data: The pipeline aims to support analysis of existing TESS data with libraries such as Astropy, the Photutils sub-package, and personal/group observational data.
 - Functionality: Designed to work similarly to AstroImageJ, but in a more condensed and streamlined manner.
 
-#GUI Preview
-<div style="display: flex; justify-content: center;"> <img src="./static/gui.png" width="90.25%" alt="flat/bias"/> </div>
+# GUI Preview
+<div style="display: flex; justify-content: center;"> <img src="./static/gui.png" width="90.25%" alt="gui preview"/> </div>
 
 # Using Pipeline
 Clone the repo:
